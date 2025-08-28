@@ -1,0 +1,15 @@
+.qualifications
+main{
+            border: 30px rgb(94, 144, 168); padding: 20px;
+            background:linear-gradient(90deg,rgb(13, 13, 81),rgb(0,0,0));
+            
+        }
+        table{
+            background: linear-gradient(90deg, rgb(132, 126, 168),rgb(92, 111, 151),rgb(92, 111, 151),rgb(223, 123, 198),rgb(177, 37, 128),rgb(92, 4, 70));
+            border: rgb(43, 43, 114) dotted;
+            height: 10px;
+        }
+div{
+            background:linear linear-gradient(90deg,rgb(13, 13, 81),rgb(0,0,0));
+            padding: 5%;
+        }
